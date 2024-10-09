@@ -1,0 +1,184 @@
+1. Home Page
+	-- Navbar
+		- Home
+		- Contact
+		- Resume 
+
+	-- Intro Section
+		- Heading
+		- Image
+		- About me
+
+	-- Experience
+		-- List all Experiences
+
+	-- Skills
+		-- List all skills
+
+	-- Achievements
+		-- Achievements/ Certification
+
+	-- Footer
+		- Social
+
+2. Contact US
+	-- Navbar
+		- Home
+		- Contact
+		- Resume 
+
+	-- Contact me form
+		- First name
+		- Last name 
+		- Email 
+		- Phone 
+		- Submit 
+
+	-- Social Links
+		- LinkenIn
+		- YouTube 
+		- GitHub 
+
+	-- Embed Map 
+		- Location
+
+	-- Footer 
+		- Social
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
